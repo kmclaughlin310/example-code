@@ -1,3 +1,3 @@
 # example-code
 
-This repository holds example code I have written.
+This repository holds example SQL and Java code I have written.
